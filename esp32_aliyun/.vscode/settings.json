@@ -1,0 +1,7 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "files.associations": {
+    "semphr.h": "c",
+    "freertos.h": "c"
+  }
+}
